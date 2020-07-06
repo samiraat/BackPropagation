@@ -1,2 +1,2 @@
 # BackPropagation
-Back Propagation and Kohenen on MNIST dataset
+Back Propagation, Kohenen and Boltzman on MNIST dataset
