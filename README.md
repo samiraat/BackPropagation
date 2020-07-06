@@ -1,2 +1,2 @@
 # BackPropagation
-Back Propagation on MNIST dataset
+Back Propagation and Kohenen on MNIST dataset
